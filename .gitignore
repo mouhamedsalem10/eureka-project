@@ -1,0 +1,15 @@
+# Java / Maven
+target/
+.idea/
+*.iml
+
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
